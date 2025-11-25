@@ -26,7 +26,7 @@ O tema escolhido é **Controle Financeiro Pessoal**, implementando o gerenciamen
 ## 🛠️ Tecnologias e Setup
 
 ### Tecnologias Principais
-* **Linguagem/Framework:** C# (.NET 8)
+* **Linguagem/Framework:** C# (.NET 10)
 * **Banco de Dados:** PostgreSQL
 * **ORM:** Entity Framework Core
 * **Contêiner:** Docker / Docker Compose
